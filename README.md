@@ -99,9 +99,8 @@ Connect your repo and select insurance_app.py as the entry point
 That’s it — your app will be live! 🌍
 
 🧑‍💻 Author
-Your Name
-📧 your.email@example.com
-🔗 LinkedIn | GitHub
+Raj Mamarde
+📧 rajmamarde24@gmail.com
 
 📜 License
 This project is open source and available under the MIT License.
